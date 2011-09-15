@@ -29,11 +29,13 @@ footer, header, hgroup, menu, nav, section {
 }
 
  
-@import url("http://fonts.googleapis.com/css?family=Gentium+Book+Basic");
-
 body {
+    font-size: 90%;
 	line-height: 1;
-    font-family: 'Gentium Book Basic', serif;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+}
+small {
+    font-size: 80%;
 }
 ol, ul {
 	list-style: none;
